@@ -1,7 +1,7 @@
 
 
 
-h1{
+h1, h2{
 text-align: center;
 color: rgb(4, 202, 209)
 }
@@ -12,3 +12,14 @@ color: rgb(4, 202, 209)
     width: 100%
 }
 
+.contact img{
+
+    height: 350px;
+}
+
+.peppermint{
+border-radius: 20px;
+height: 600px;
+display: inline-flex;
+justify-content: center;
+}
