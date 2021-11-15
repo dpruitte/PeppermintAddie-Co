@@ -8,8 +8,7 @@ color: rgb(4, 202, 209)
 
 
 .carousel-inner{
-    height: 600px;
-    width: 100%
+    object-fit: fill;
 }
 
 .contact img{
@@ -23,3 +22,13 @@ height: 600px;
 display: inline-flex;
 justify-content: center;
 }
+
+.gallery{
+
+    height: 250px;
+}
+
+svg{
+
+    height: 50px;
+} 
