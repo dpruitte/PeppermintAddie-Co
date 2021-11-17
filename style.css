@@ -8,9 +8,12 @@ color: rgb(4, 202, 209)
 
 
 .carousel-inner{
-    object-fit: fill;
+    height: 760px;
 }
 
+.carousel-item{
+    object-fit: cover;
+}
 .contact img{
 
     height: 350px;
@@ -32,3 +35,4 @@ svg{
 
     height: 50px;
 } 
+
