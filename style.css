@@ -36,3 +36,7 @@ svg{
     height: 50px;
 } 
 
+.summary{
+    text-align: center;
+    font-size: 1cm;
+}
