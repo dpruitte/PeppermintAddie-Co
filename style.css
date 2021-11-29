@@ -50,3 +50,39 @@ svg{
     height: 700px;
     margin: 30px;
 } */
+
+iframe{
+width: 100%;
+}
+
+.FAQ{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.answers{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: pink;
+
+}
+
+.contact{
+width:100%;
+
+}
+
+.food{
+    padding-left: 200px;
+    color: rgb(179, 84, 100);
+}
+
+.breakfast{
+    color: black;
+}
+
+.lunch{
+    color: black;
+}
