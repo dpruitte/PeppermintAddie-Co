@@ -8,7 +8,7 @@ color: rgb(4, 202, 209)
 
 
 .carousel-inner{
-    height: 760px;
+    height: 900px;
 }
 
 .carousel-item{
@@ -46,10 +46,7 @@ svg{
     font-size: x-large;
 }
 
-/* .card{
-    height: 700px;
-    margin: 30px;
-} */
+
 
 iframe{
 width: 100%;
